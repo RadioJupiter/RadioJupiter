@@ -1,0 +1,35 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Radio Jupiter</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./CSS/site.css">
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Radio Jupiter</h1>
+        <h2 class="neonText">Welcome Off-Worlders</h2>
+      </header>
+      <nav> 
+        <a href="https://soundcloud.com/radiojupiter" aria-label="Link to Incoming Transmissions on Soundcloud">Incoming Transmissions</a>
+        <a href="https://www.youtube.com/channel/UCS6FsdTzzRzqqcs1J0zGSOg" aria-label="Link to Observation on YouTube">Observation</a>
+        <a href="about.html" aria-label="Link to About page of Jupiter Radio">About Jupiter Radio</a>
+        <a [href="animation.html" class="neonText" aria-label="Link to Animation page">Animation</a>
+      </nav>
+      <section>
+        <div class="container">
+          <div class="ring" role="img" aria-label="Ring animation part 1."></div>
+          <div class="ring" role="img" aria-label="Ring animation part 2."></div>
+          <div class="ring" role="img" aria-label="Ring animation part 3."></div>
+          
+          </section>
+    </main>
+
+  </body>
+</html>
+
